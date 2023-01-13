@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Renzi Fidele
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React, SASS and Bootstrap
+- 🌱 I’m currently learning React, Firebase
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me:
 - email: renzifidele2001@gmail.com

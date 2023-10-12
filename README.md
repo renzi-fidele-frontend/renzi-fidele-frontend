@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Renzi Fidele</h1>
 <h3 align="center">A passionate frontend developer from Mozambique</h3>
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/>
+<img width="150px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renzi-fidele-frontend&label=Profile%20views&color=0e75b6&style=flat" alt="renzi-fidele-frontend" /> </p>
 

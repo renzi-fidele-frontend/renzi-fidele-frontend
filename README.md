@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzi-fidele-frontend&show_icons=true&locale=en&layout=compact" alt="renzi-fidele-frontend" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renzi-fidele-frontend&show_icons=true&locale=en" alt="renzi-fidele-frontend" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renzi-fidele-frontend&" alt="renzi-fidele-frontend" /></p>
 

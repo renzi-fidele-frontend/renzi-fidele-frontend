@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/mozambique/USERNAME.svg)](https://user-badge.committers.top/mozambique/renzi-fidele-frontend )
+[![committers.top badge](https://user-badge.committers.top/mozambique/USERNAME.svg)](https://user-badge.committers.top/mozambique/renzi-fidele-frontend)
 <h1 align="center">Hi 👋, I'm Renzi Fidele</h1>
 <h3 align="center">A passionate frontend developer from Mozambique</h3>
 <img align="right" width="250" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/>

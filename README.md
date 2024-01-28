@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renzi-fidele-frontend&label=Profile%20views&color=0e75b6&style=flat" alt="renzi-fidele-frontend" /> </p>
 
-[![committers.top badge](https://user-badge.committers.top/mozambique/USERNAME.svg)](https://user-badge.committers.top/mozambique/renzi-fidele-frontend)
+[![committers.top badge](https://user-badge.committers.top/mozambique/renzi-fidele-frontend.svg)](https://user-badge.committers.top/mozambique/renzi-fidele-frontend)
 
 - 🌱 I’m currently learning **ReactJs Ecosystem**
 

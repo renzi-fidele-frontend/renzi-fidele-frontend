@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Mozambique</h3>
 <img align="right" width="250" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renzi-fidele-frontend&label=Profile%20views&color=0e75b6&style=flat" alt="renzi-fidele-frontend" /> </p>
-
 [![committers.top badge](https://user-badge.committers.top/mozambique/renzi-fidele-frontend.svg)](https://user-badge.committers.top/mozambique/renzi-fidele-frontend)
 
 - 🌱 I’m currently learning **ReactJs Ecosystem**

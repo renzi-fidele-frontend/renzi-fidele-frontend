@@ -4,7 +4,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/mozambique/renzi-fidele-frontend.svg)](https://user-badge.committers.top/mozambique/renzi-fidele-frontend)
 
-- 🌱 I’m currently learning **ReactJs Ecosystem**
+- 🌱 I’m currently learning **MERN Stack Ecosystem**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-renzi.vercel.app/](https://portfolio-renzi.vercel.app/)
 

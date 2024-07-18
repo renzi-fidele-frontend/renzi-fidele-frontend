@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **renzifidele2001@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-renzi.vercel.app/assets/Renzi_Fidele-ab65ac61.pdf](https://portfolio-renzi.vercel.app/assets/Renzi_Fidele-ab65ac61.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/renzi-fidele-4886151bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renzi-fidele-4886151bb" height="30" width="40" /></a>

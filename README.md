@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-renzi.vercel.app/](https://portfolio-renzi.vercel.app/)
 
-- 📝 Also a Freelancer specializing with Wordpress and Elemntor
+- 📝 Also a Freelancer specializing with Wordpress and Elementor
 
 - 📫 How to reach me **renzifidele2001@gmail.com**
 
